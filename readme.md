@@ -3,7 +3,7 @@
 A simple, elegant web-based tool for resizing images directly in your browser. Built with pure HTML, CSS, and JavaScript, this tool allows users to quickly resize images without the need for any server-side processing.
 
 ![Image Resizer Screenshot](https://github.com/mrithip/image-resizer/blob/f3c54c1ec0438d7d11a5095889c0642bd67251c0/output1.png)
-![Image Resizer Screenshot](https://github.com/mrithip/image-resizer/blob/f3c54c1ec0438d7d11a5095889c0642bd67251c0/output1.png)
+![Image Resizer Screenshot](https://github.com/mrithip/image-resizer/blob/27db971445cdf9b399f14731c1499e05394ca7f0/output2.png)
 
 ## Features
 
